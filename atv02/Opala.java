@@ -7,7 +7,7 @@ public class Opala {
         int speed = scan.nextInt();
         int tm = scan.nextInt();
         int consume = scan.nextInt();
-
+   
         int time = tm/60;
         int distance = speed*time;
         float performance = distance/consume;
