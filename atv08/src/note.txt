@@ -1,0 +1,14 @@
+# A project that implements a simple aggregation example,
+# with a motorcycle class and a person class.
+# We can change the attributes of the motorcycle object
+# that receives a person object to interact with.
+
+#commands:
+#end
+#show
+#init
+#enter
+#buy
+#leave
+#drive
+#honk
