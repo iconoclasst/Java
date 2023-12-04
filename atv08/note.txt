@@ -12,3 +12,7 @@
 #leave
 #drive
 #honk
+
+#execute:
+#javac *.javac
+#java Main
